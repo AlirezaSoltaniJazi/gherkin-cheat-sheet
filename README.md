@@ -111,7 +111,7 @@ These are just a few examples of the many different formats and approaches that 
 behavior of software. Each approach has its own strengths and weaknesses, and the best choice depends on the specific
 needs and goals of your team and project.
 
-## References
+## Other Documents
 
 [Syntax Cheat Sheet](gherkin-cheat-sheet.md)  
 [Examples](examples.md)
